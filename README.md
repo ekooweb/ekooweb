@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akın</h1>
-<h3 align="center">👋 Hello! I'm a passionate web developer specializing in JavaScript (ReactJS & VueJS) and PHP (Laravel).</h3>
+<h3 align="center">I'm a passionate web developer specializing in JavaScript (ReactJS & VueJS) and PHP (Laravel).</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
